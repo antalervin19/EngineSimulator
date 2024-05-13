@@ -1,0 +1,1 @@
+cmd: g++ opengl_window.cpp OpenGLShapes.cpp ini.c -o opengl_window -lopengl32 -lfreeglut
